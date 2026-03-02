@@ -1,0 +1,1 @@
+print ("Hello World from Python in Visual Studio Code!  This is my first Python program in Visual Studio Code.  I am learning how to use Visual Studio Code for Python development. ")    
