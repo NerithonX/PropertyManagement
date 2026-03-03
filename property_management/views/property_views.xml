@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
-    <record id="view_property_tree" model="ir.ui.view">
-        <field name="name">property.management.tree</field>
+    <record id="view_property_list" model="ir.ui.view">
+        <field name="name">property.management.list</field>
         <field name="model">property.management</field>
         <field name="arch" type="xml">
-            <tree>
+            <list>
                 <field name="name"/>
                 <field name="value"/>
-            </tree>
+            </list>
         </field>
     </record>
 
